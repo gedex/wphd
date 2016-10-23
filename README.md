@@ -6,6 +6,10 @@ wphd
 The wphd package allows Go programs to retrieve header data from plugin and 
 theme file headers.
 
+[![Build Status](https://travis-ci.org/gedex/wphd.png?branch=master)](https://travis-ci.org/gedex/wphd)
+[![Coverage Status](https://coveralls.io/repos/gedex/wphd/badge.png?branch=master)](https://coveralls.io/r/gedex/wphd?branch=master)
+[![GoDoc](https://godoc.org/github.com/gedex/wphd?status.svg)](https://godoc.org/github.com/gedex/wphd)
+
 ## Example
 
 ~~~go
